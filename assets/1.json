@@ -1,0 +1,19 @@
+{
+    "name": "Jin",
+    "symbol": "",
+    "image": "jin.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "jin.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "AwkXzsAoD6mKvBpc9me2cdE9HmopHB4zB9qwoq5uW1Sj",
+          "share": 100
+        }
+      ]
+    }
+  }
