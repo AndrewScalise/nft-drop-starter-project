@@ -1,17 +1,17 @@
 {
-    "name": "Jin",
-    "symbol": "",
-    "image": "jin.png",
+    "name": "jin",
+    "symbol": "j",
+    "image": "1.png",
     "properties": {
       "files": [
         {
-          "uri": "jin.png",
+          "uri": "1.png",
           "type": "image/png"
         }
       ],
       "creators": [
         {
-          "address": "AwkXzsAoD6mKvBpc9me2cdE9HmopHB4zB9qwoq5uW1Sj",
+          "address": "2SsPkj4dwwrkEdbFmDysH9yfRHDKT6Ko69MaQ2XUmTAF",
           "share": 100
         }
       ]

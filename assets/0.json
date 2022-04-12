@@ -1,17 +1,17 @@
 {
-    "name": "Mugen",
-    "symbol": "",
-    "image": "mugen.png",
+    "name": "mugen",
+    "symbol": "m",
+    "image": "0.png",
     "properties": {
       "files": [
         {
-          "uri": "mugen.png",
+          "uri": "0.png",
           "type": "image/png"
         }
       ],
       "creators": [
         {
-          "address": "AwkXzsAoD6mKvBpc9me2cdE9HmopHB4zB9qwoq5uW1Sj",
+          "address": "2SsPkj4dwwrkEdbFmDysH9yfRHDKT6Ko69MaQ2XUmTAF",
           "share": 100
         }
       ]

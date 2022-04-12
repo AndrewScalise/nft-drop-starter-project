@@ -1,17 +1,17 @@
 {
-    "name": "Fuu",
-    "symbol": "",
-    "image": "fuu.png",
+    "name": "fuu",
+    "symbol": "f",
+    "image": "2.png",
     "properties": {
       "files": [
         {
-          "uri": "fuu.png",
+          "uri": "2.png",
           "type": "image/png"
         }
       ],
       "creators": [
         {
-          "address": "AwkXzsAoD6mKvBpc9me2cdE9HmopHB4zB9qwoq5uW1Sj",
+          "address": "2SsPkj4dwwrkEdbFmDysH9yfRHDKT6Ko69MaQ2XUmTAF",
           "share": 100
         }
       ]
